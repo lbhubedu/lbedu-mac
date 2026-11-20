@@ -1,0 +1,566 @@
+{
+  "raycast": {
+    "version": "2.13",
+    "published": "2026-11-18",
+    "url": "https://www.raycast.com/changelog/macos/2-13",
+    "source": "Histórico oficial do Raycast"
+  },
+  "homebrew": {
+    "version": "7.0.15",
+    "published": "2026-11-19",
+    "url": "https://github.com/Homebrew/brew/releases/tag/7.0.15",
+    "source": "GitHub Releases"
+  },
+  "rectangle": {
+    "version": "v2.0.4",
+    "published": "2026-10-20",
+    "url": "https://github.com/rxhanson/Rectangle/releases/tag/v2.0.4",
+    "source": "GitHub Releases"
+  },
+  "iterm2": {
+    "version": "3.7.8",
+    "published": "2026-11-18",
+    "url": "https://iterm2.com/downloads.html",
+    "source": "Histórico oficial do iTerm2"
+  },
+  "localsend": {
+    "version": "v1.18.2",
+    "published": "2026-08-21",
+    "url": "https://github.com/localsend/localsend/releases/tag/v1.18.2",
+    "source": "GitHub Releases"
+  },
+  "bitwarden": {
+    "version": "desktop-v2026.10.4",
+    "published": "2026-11-05",
+    "url": "https://github.com/bitwarden/clients/releases/tag/desktop-v2026.10.4",
+    "source": "GitHub Releases"
+  },
+  "stats": {
+    "version": "v3.1.0",
+    "published": "2026-11-15",
+    "url": "https://github.com/exelban/stats/releases/tag/v3.1.0",
+    "source": "GitHub Releases"
+  },
+  "iina": {
+    "version": "v1.5.1",
+    "published": "2026-11-06",
+    "url": "https://github.com/iina/iina/releases/tag/v1.5.1",
+    "source": "GitHub Releases"
+  },
+  "obsidian": {
+    "version": "v1.15.1",
+    "published": "2026-11-12",
+    "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.15.1",
+    "source": "GitHub Releases"
+  },
+  "maccy": {
+    "version": "2.8.0",
+    "published": "2026-10-26",
+    "url": "https://github.com/p0deje/Maccy/releases/tag/2.8.0",
+    "source": "GitHub Releases"
+  },
+  "alttab": {
+    "version": "v11.10.2",
+    "published": "2026-11-16",
+    "url": "https://github.com/lwouis/alt-tab-macos/releases/tag/v11.10.2",
+    "source": "GitHub Releases"
+  },
+  "joplin": {
+    "version": "v3.7.22",
+    "published": "2026-10-28",
+    "url": "https://github.com/laurent22/joplin/releases/tag/v3.7.22",
+    "source": "GitHub Releases"
+  },
+  "hammerspoon": {
+    "version": "1.1.1",
+    "published": "2026-02-26",
+    "url": "https://github.com/Hammerspoon/hammerspoon/releases/tag/1.1.1",
+    "source": "GitHub Releases"
+  },
+  "karabiner": {
+    "version": "v16.3.0",
+    "published": "2026-09-06",
+    "url": "https://github.com/pqrs-org/Karabiner-Elements/releases/tag/v16.3.0",
+    "source": "GitHub Releases"
+  },
+  "itsycal": {
+    "version": "0.29.0",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/itsycal",
+    "source": "Homebrew Formulae"
+  },
+  "vscode": {
+    "version": "1.147.0",
+    "published": "2026-11-18",
+    "url": "https://github.com/microsoft/vscode/releases/tag/1.147.0",
+    "source": "GitHub Releases"
+  },
+  "git": {
+    "version": "2.56.1",
+    "published": null,
+    "url": "https://formulae.brew.sh/formula/git",
+    "source": "Homebrew Formulae"
+  },
+  "ghostty": {
+    "version": "1.4.0",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/ghostty",
+    "source": "Homebrew Formulae"
+  },
+  "zed": {
+    "version": "v1.29.2",
+    "published": "2026-11-18",
+    "url": "https://github.com/zed-industries/zed/releases/tag/v1.29.2",
+    "source": "GitHub Releases"
+  },
+  "lazygit": {
+    "version": "v0.66.3",
+    "published": "2026-11-07",
+    "url": "https://github.com/jesseduffield/lazygit/releases/tag/v0.66.3",
+    "source": "GitHub Releases"
+  },
+  "bruno": {
+    "version": "v4.3.0",
+    "published": "2026-10-22",
+    "url": "https://github.com/usebruno/bruno/releases/tag/v4.3.0",
+    "source": "GitHub Releases"
+  },
+  "tableplus": {
+    "version": "27.3.2,850",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/tableplus",
+    "source": "Homebrew Formulae"
+  },
+  "uv": {
+    "version": "0.13.9",
+    "published": "2026-11-17",
+    "url": "https://github.com/astral-sh/uv/releases/tag/0.13.9",
+    "source": "GitHub Releases"
+  },
+  "mise": {
+    "version": "v2026.11.10",
+    "published": "2026-11-18",
+    "url": "https://github.com/jdx/mise/releases/tag/v2026.11.10",
+    "source": "GitHub Releases"
+  },
+  "node": {
+    "version": "v27.0.0-alpha.0.1.1",
+    "published": "2026-11-17",
+    "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1",
+    "source": "GitHub Releases"
+  },
+  "orbstack": {
+    "version": "2.2.5,21124",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/orbstack",
+    "source": "Homebrew Formulae"
+  },
+  "colima": {
+    "version": "v0.10.3",
+    "published": "2026-06-04",
+    "url": "https://github.com/abiosoft/colima/releases/tag/v0.10.3",
+    "source": "GitHub Releases"
+  },
+  "keka": {
+    "version": "v1.6.8",
+    "published": "2026-09-24",
+    "url": "https://github.com/aonez/Keka/releases/tag/v1.6.8",
+    "source": "GitHub Releases"
+  },
+  "unarchiver": {
+    "version": "4.3.9,147,1742287964",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/the-unarchiver",
+    "source": "Homebrew Formulae"
+  },
+  "grandperspective": {
+    "version": "3.8.1",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/grandperspective",
+    "source": "Homebrew Formulae"
+  },
+  "appcleaner": {
+    "version": "3.7",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/appcleaner",
+    "source": "Homebrew Formulae"
+  },
+  "pearcleaner": {
+    "version": "5.4.3",
+    "published": "2025-11-26",
+    "url": "https://github.com/alienator88/Pearcleaner/releases/tag/5.4.3",
+    "source": "GitHub Releases"
+  },
+  "syncthing": {
+    "version": "v2.1.7",
+    "published": "2026-10-21",
+    "url": "https://github.com/syncthing/syncthing/releases/tag/v2.1.7",
+    "source": "GitHub Releases"
+  },
+  "cyberduck": {
+    "version": "9.6.0,46406",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/cyberduck",
+    "source": "Homebrew Formulae"
+  },
+  "keepassxc": {
+    "version": "2.8.0",
+    "published": "2026-10-21",
+    "url": "https://github.com/keepassxreboot/keepassxc/releases/tag/2.8.0",
+    "source": "GitHub Releases"
+  },
+  "lulu": {
+    "version": "v4.5.7",
+    "published": "2026-11-02",
+    "url": "https://github.com/objective-see/LuLu/releases/tag/v4.5.7",
+    "source": "GitHub Releases"
+  },
+  "knockknock": {
+    "version": "v4.1.0",
+    "published": "2026-09-15",
+    "url": "https://github.com/objective-see/KnockKnock/releases/tag/v4.1.0",
+    "source": "GitHub Releases"
+  },
+  "cryptomator": {
+    "version": "1.19.7",
+    "published": "2026-11-18",
+    "url": "https://github.com/cryptomator/cryptomator/releases/tag/1.19.7",
+    "source": "GitHub Releases"
+  },
+  "proton-vpn": {
+    "version": "6.5.2",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/protonvpn",
+    "source": "Homebrew Formulae"
+  },
+  "shottr": {
+    "version": "1.10.0",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/shottr",
+    "source": "Homebrew Formulae"
+  },
+  "handbrake": {
+    "version": "1.11.2",
+    "published": "2026-06-07",
+    "url": "https://github.com/HandBrake/HandBrake/releases/tag/1.11.2",
+    "source": "GitHub Releases"
+  },
+  "audacity": {
+    "version": "Audacity-4.0.2",
+    "published": "2026-11-02",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.2",
+    "source": "GitHub Releases"
+  },
+  "obs-studio": {
+    "version": "33.0.1",
+    "published": "2026-10-29",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.1",
+    "source": "GitHub Releases"
+  },
+  "gimp": {
+    "version": "3.2.8",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/gimp",
+    "source": "Homebrew Formulae"
+  },
+  "inkscape": {
+    "version": "1.4.4",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/inkscape",
+    "source": "Homebrew Formulae"
+  },
+  "imageoptim": {
+    "version": "1.9.3",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/imageoptim",
+    "source": "Homebrew Formulae"
+  },
+  "blender": {
+    "version": "5.3.0",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/blender",
+    "source": "Homebrew Formulae"
+  },
+  "vlc": {
+    "version": "3.0.24",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/vlc",
+    "source": "Homebrew Formulae"
+  },
+  "utm": {
+    "version": "v5.0.9-2",
+    "published": "2026-11-18",
+    "url": "https://github.com/utmapp/UTM/releases/tag/v5.0.9-2",
+    "source": "GitHub Releases"
+  },
+  "onyx": {
+    "version": "5.1.2",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/onyx",
+    "source": "Homebrew Formulae"
+  },
+  "restic": {
+    "version": "v0.19.1",
+    "published": "2026-07-05",
+    "url": "https://github.com/restic/restic/releases/tag/v0.19.1",
+    "source": "GitHub Releases"
+  },
+  "aldente": {
+    "version": "1.40.2",
+    "published": "2026-11-18",
+    "url": "https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring/releases/tag/1.40.2",
+    "source": "GitHub Releases"
+  },
+  "daisydisk": {
+    "version": "4.34.2",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/daisydisk",
+    "source": "Homebrew Formulae"
+  },
+  "1password": {
+    "version": "8.12.46",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/1password",
+    "source": "Homebrew Formulae"
+  },
+  "mlx-lm": {
+    "version": "v0.32.2",
+    "published": "2026-10-16",
+    "url": "https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.2",
+    "source": "GitHub Releases"
+  },
+  "hidden-bar": {
+    "version": "v1.13.2: auto-hide fixes, clock clicks, every language complete",
+    "published": "2026-11-19",
+    "url": "https://github.com/consolelabs/hidden/releases/tag/v1.13.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "ice": {
+    "version": "Ice 0.11.13 (macOS Tahoe Beta 2)",
+    "published": "2025-09-16",
+    "url": "https://github.com/jordanbaird/Ice/releases/tag/0.11.13-dev.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "swiftbar": {
+    "version": "2.1.2 BETA 5",
+    "published": "2026-09-29",
+    "url": "https://github.com/swiftbar/SwiftBar/releases/tag/v2.1.2-beta-5",
+    "source": "Histórico de versões do GitHub"
+  },
+  "monny": {
+    "version": "Monny 1.7.0",
+    "published": "2026-11-09",
+    "url": "https://github.com/Blinks44/monny/releases/tag/v1.7.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "kombucha": {
+    "version": "Kombucha 0.3.1",
+    "published": "2026-11-14",
+    "url": "https://github.com/askuksov/kombucha/releases/tag/v0.3.1",
+    "source": "Histórico de versões do GitHub"
+  },
+  "ldmanager": {
+    "version": "LD Manager 0.1.5",
+    "published": "2026-11-13",
+    "url": "https://github.com/roeehrl/ldmanager/releases/tag/v0.1.5",
+    "source": "Histórico de versões do GitHub"
+  },
+  "oversight": {
+    "version": "Version 2.4.0",
+    "published": "2024-09-24",
+    "url": "https://github.com/objective-see/OverSight/releases/tag/v2.4.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "blockblock": {
+    "version": "Version 2.5.2",
+    "published": "2026-09-14",
+    "url": "https://github.com/objective-see/BlockBlock/releases/tag/v2.5.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "time-machine-inspector": {
+    "version": "v1.2.1",
+    "published": "2024-07-30",
+    "url": "https://github.com/kasper9n/time-machine-inspector/releases/tag/v1.2.1",
+    "source": "Histórico de versões do GitHub"
+  },
+  "swiftquit": {
+    "version": "Swift Quit v1.5",
+    "published": "2023-03-16",
+    "url": "https://github.com/onebadidea/swiftquit/releases/tag/v1.5",
+    "source": "Histórico de versões do GitHub"
+  },
+  "sloth": {
+    "version": "Version 3.6",
+    "published": "2026-04-22",
+    "url": "https://github.com/sveinbjornt/Sloth/releases/tag/3.6",
+    "source": "Histórico de versões do GitHub"
+  },
+  "applite": {
+    "version": "1.4.2",
+    "published": "2026-09-05",
+    "url": "https://github.com/milanvarady/Applite/releases/tag/v1.4.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "cork": {
+    "version": "v2.1.2",
+    "published": "2026-11-02",
+    "url": "https://github.com/buresdv/Cork/releases/tag/v2.1.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "macports": {
+    "version": "MacPorts 2.12.7",
+    "published": "2026-10-13",
+    "url": "https://github.com/macports/macports-base/releases/tag/v2.12.7",
+    "source": "Histórico de versões do GitHub"
+  },
+  "qlmarkdown": {
+    "version": "Release 1.5.7 (59)",
+    "published": "2026-10-02",
+    "url": "https://github.com/sbarex/QLMarkdown/releases/tag/1.5.7",
+    "source": "Histórico de versões do GitHub"
+  },
+  "openinterminal": {
+    "version": "OpenInTerminal v2.3.9",
+    "published": "2026-07-14",
+    "url": "https://github.com/Ji4n1ng/OpenInTerminal/releases/tag/v2.3.9",
+    "source": "Histórico de versões do GitHub"
+  },
+  "secretive": {
+    "version": "4.0.0",
+    "published": "2026-09-21",
+    "url": "https://github.com/maxgoedjen/secretive/releases/tag/v4.0.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "aerospace": {
+    "version": "v0.21.3-Beta",
+    "published": "2026-07-16",
+    "url": "https://github.com/nikitabobko/AeroSpace/releases/tag/v0.21.3-Beta",
+    "source": "Histórico de versões do GitHub"
+  },
+  "kap": {
+    "version": "v3.6.0",
+    "published": "2022-10-27",
+    "url": "https://github.com/wulkano/Kap/releases/tag/v3.6.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "swiftmtp": {
+    "version": "SwiftMTP 1.3.2 RC",
+    "published": "2026-11-05",
+    "url": "https://github.com/Neighbor-Z/SwiftMTP/releases/tag/v1.3.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "keepingyouawake": {
+    "version": "1.6.8: macOS 26 Tahoe App Icon",
+    "published": "2025-09-12",
+    "url": "https://github.com/newmarcel/KeepingYouAwake/releases/tag/1.6.8",
+    "source": "Histórico de versões do GitHub"
+  },
+  "nudge": {
+    "version": "Nudge 2.1.5.81866",
+    "published": "2026-11-18",
+    "url": "https://github.com/macadmins/nudge/releases/tag/v2.1.5.81866",
+    "source": "Histórico de versões do GitHub"
+  },
+  "xcodes": {
+    "version": "2.2.0",
+    "published": "2026-11-11",
+    "url": "https://github.com/XcodesOrg/xcodes/releases/tag/2.2.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "macpass": {
+    "version": "0.8.2",
+    "published": "2026-09-04",
+    "url": "https://github.com/MacPass/MacPass/releases/tag/0.8.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "monitorcontrol": {
+    "version": "MonitorControl v4.4.0",
+    "published": "2026-09-15",
+    "url": "https://github.com/MonitorControl/MonitorControl/releases/tag/v4.4.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "macmousefix": {
+    "version": "2.2.6",
+    "published": "2026-10-03",
+    "url": "https://github.com/noah-nuebling/mac-mouse-fix/releases/tag/2.2.6",
+    "source": "Histórico de versões do GitHub"
+  },
+  "ollama": {
+    "version": "v0.40.16",
+    "published": "2026-11-09",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+    "source": "Histórico de versões do GitHub"
+  },
+  "neovim": {
+    "version": "Nvim 0.12.6",
+    "published": "2026-10-09",
+    "url": "https://github.com/neovim/neovim/releases/tag/v0.12.6",
+    "source": "Histórico de versões do GitHub"
+  },
+  "tailscale": {
+    "version": "v1.104.7",
+    "published": "2026-11-12",
+    "url": "https://github.com/tailscale/tailscale/releases/tag/v1.104.7",
+    "source": "Histórico de versões do GitHub"
+  },
+  "ripgrep": {
+    "version": "ignore-0.4.34",
+    "published": "2026-10-27",
+    "url": "https://github.com/BurntSushi/ripgrep/releases/tag/ignore-0.4.34",
+    "source": "Histórico de versões do GitHub"
+  },
+  "fzf": {
+    "version": "0.75.0",
+    "published": "2026-11-07",
+    "url": "https://github.com/junegunn/fzf/releases/tag/v0.75.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "jq": {
+    "version": "jq 1.8.2",
+    "published": "2026-06-20",
+    "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.2",
+    "source": "Histórico de versões do GitHub"
+  },
+  "bat": {
+    "version": "v0.26.1",
+    "published": "2025-12-02",
+    "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1",
+    "source": "Histórico de versões do GitHub"
+  },
+  "tmux": {
+    "version": "tmux 3.8",
+    "published": "2026-10-08",
+    "url": "https://github.com/tmux/tmux/releases/tag/3.8",
+    "source": "Histórico de versões do GitHub"
+  },
+  "linearmouse": {
+    "version": "v0.13.0",
+    "published": "2026-11-15",
+    "url": "https://github.com/linearmouse/linearmouse/releases/tag/v0.13.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "netnewswire": {
+    "version": "mac-7.3.1",
+    "published": "2026-11-19",
+    "url": "https://github.com/Ranchero-Software/NetNewsWire/releases/tag/mac-7.3.1",
+    "source": "Histórico de versões do GitHub"
+  },
+  "transmission": {
+    "version": "4.1.4",
+    "published": "2026-10-24",
+    "url": "https://github.com/transmission/transmission/releases/tag/4.1.4",
+    "source": "Histórico de versões do GitHub"
+  },
+  "kitty": {
+    "version": "version 0.51.0",
+    "published": "2026-11-18",
+    "url": "https://github.com/kovidgoyal/kitty/releases/tag/v0.51.0",
+    "source": "Histórico de versões do GitHub"
+  },
+  "macs-fan-control": {
+    "version": "1.5.23",
+    "published": null,
+    "url": "https://formulae.brew.sh/cask/macs-fan-control",
+    "source": "Homebrew Formulae"
+  }
+}
